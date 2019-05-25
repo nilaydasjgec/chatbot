@@ -1,0 +1,1 @@
+web : gunicorn Service_ChatBot:api
