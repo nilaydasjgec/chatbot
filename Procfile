@@ -1,1 +1,1 @@
-web : gunicorn Service_ChatBot:api
+web: uwsgi uwsgi.ini
